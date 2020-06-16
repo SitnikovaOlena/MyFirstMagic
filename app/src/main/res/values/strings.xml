@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFirstMagic</string>
+    <string name="question">Do you want to see magic?</string>
+    <string name="button_name">Click here</string>
+    <string name="magicString">Your first magic!!!</string>
+    <string name="pictDescription">toBeCool</string>
+    <string name="nextStep">Lets continue</string>
+    <string name="fieldName">Enter your values</string>
+    <string name="btn">Calculate</string>
+    <string name="hint">Enter your number</string>
+    <string name="result">Your result:</string>
+    <string name="nextBtn">Next</string>
+</resources>
